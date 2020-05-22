@@ -90,7 +90,7 @@ rss:
 since: 2015
 
 # icon between year and author @Footer
-authoricon: cog fa-spin fa-3x fa-fw
+authoricon: cog fa-spin fa-1x fa-fw
 
 # Footer `powered-by` and `theme-info` copyright
 copyright: false
